@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
     
     fetch(
-        "https://raw.githubusercontent.com/afrizaDev/Kelas9A/refs/heads/index/data.json"
+        "https://raw.githubusercontent.com/afrizaDev/Kelas_X_PPLG1/refs/heads/index/data.json"
     )
         .then(response => response.json())
         .then(data => {
